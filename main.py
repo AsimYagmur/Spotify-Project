@@ -125,5 +125,5 @@ class Spotify_Proje:
 
 
 if __name__ == "__main__":
-    db = Spotify_Proje(db_isim="spotify_proje", db_user="root", db_sifre="VuiZen8395", ilk_defa_giris=True)
+    db = Spotify_Proje(db_isim="db_isminiz", db_user="user", db_sifre="sifreniz", ilk_defa_giris=True)
     db.main()
